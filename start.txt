@@ -1,1 +1,2 @@
+Prima linie adaugata
 Test Git Quick
